@@ -44,6 +44,5 @@ def getNewCandidate():
 	return 0.0 # :(
 
 
-
 if __name__ == "__main__":
 	getM_Pi()
